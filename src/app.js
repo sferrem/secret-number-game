@@ -1,5 +1,5 @@
 var drawnNumbers = []
-var limit = 10;
+var limit = 100;
 let randomNumber = getRandomNumber();
 let tries = 1
 
